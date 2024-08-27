@@ -1,5 +1,5 @@
 Disclaimer: 
-The code in this repository is based on my personal learning experience with:
+The code in this repository is based on my personal learning experience with and the coresponding github "https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition/tree/main":
 "Generatives Deep Learning von David Foster (O'Reilly).Copyright 2019 Applied Data Science Partners Ltd., ISBN 978-96009-128-8"
 
 This Generative Adversarial Network with Wasserstein and Gradient Penalty loss is meant to generate new faces based on a Celebrity Dataset.
